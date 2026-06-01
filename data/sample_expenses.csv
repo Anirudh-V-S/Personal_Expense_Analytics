@@ -1,0 +1,286 @@
+Date,Category,Amount,Payment_Method,Merchant / Description,Account / Wallet
+2025-12-03,Miscellaneous,17.13,Debit Card,Post Office,Primary Checking
+2025-12-04,Groceries,100.51,Debit Card,Target,Primary Checking
+2025-12-05,Rent & Utilities,141.29,UPI / Wallet,Electric Utility,Savings Account
+2025-12-05,Rent & Utilities,57.37,UPI / Wallet,Water & Sewage Corp,Primary Checking
+2025-12-05,Rent & Utilities,83.86,Credit Card,Comcast Cable,Credit Card
+2025-12-05,Transport,13.93,Credit Card,Uber,Credit Card
+2025-12-07,Dining Out,46.45,Credit Card,Chipotle,Credit Card
+2025-12-07,Entertainment,12.95,Debit Card,Netflix,Primary Checking
+2025-12-07,Dining Out,82.34,Cash,McDonald's,Cash
+2025-12-08,Dining Out,14.56,Credit Card,Olive Garden,Credit Card
+2025-12-08,Shopping,66.27,Credit Card,Nike Store,Credit Card
+2025-12-09,Dining Out,17.34,Debit Card,Subway,Primary Checking
+2025-12-09,Transport,46.91,UPI / Wallet,Subway Transit,Savings Account
+2025-12-09,Miscellaneous,28.13,UPI / Wallet,Laundromat,Savings Account
+2025-12-10,Subscriptions,10.99,Credit Card,Spotify,Credit Card
+2025-12-10,Transport,5.56,Credit Card,ExxonMobil,Credit Card
+2025-12-10,Subscriptions,15.49,Credit Card,Netflix,Credit Card
+2025-12-11,Dining Out,30.09,Cash,Olive Garden,Cash
+2025-12-12,Dining Out,48.51,Credit Card,Olive Garden,Credit Card
+2025-12-12,Miscellaneous,7.02,Credit Card,Parking Meter,Credit Card
+2025-12-14,Shopping,125.64,Credit Card,Zara,Credit Card
+2025-12-15,Subscriptions,49.99,Credit Card,Gym Membership,Credit Card
+2025-12-15,Groceries,53.93,Credit Card,Whole Foods,Credit Card
+2025-12-17,Dining Out,30.37,Credit Card,Local Pizzeria,Credit Card
+2025-12-18,Dining Out,55.25,UPI / Wallet,Chipotle,Savings Account
+2025-12-19,Dining Out,26.49,Credit Card,Local Pizzeria,Credit Card
+2025-12-21,Groceries,26.98,Debit Card,Whole Foods,Primary Checking
+2025-12-22,Groceries,44.93,Credit Card,Kroger,Credit Card
+2025-12-22,Miscellaneous,5.42,Credit Card,Post Office,Credit Card
+2025-12-22,Miscellaneous,5.5,Credit Card,Local Corner Store,Credit Card
+2025-12-23,Groceries,110.39,Debit Card,Trader Joe's,Primary Checking
+2025-12-24,Entertainment,46.08,UPI / Wallet,Netflix,Savings Account
+2025-12-24,Miscellaneous,25.73,Credit Card,Post Office,Credit Card
+2025-12-26,Transport,19.15,Credit Card,Subway Transit,Credit Card
+2025-12-27,Dining Out,20.93,Credit Card,Starbucks,Credit Card
+2025-12-28,Dining Out,39.14,Credit Card,McDonald's,Credit Card
+2025-12-29,Dining Out,25.46,Credit Card,McDonald's,Credit Card
+2025-12-29,Dining Out,33.15,Debit Card,Starbucks,Primary Checking
+2025-12-29,Transport,55.93,Credit Card,Lyft,Credit Card
+2025-12-30,Shopping,35.8,UPI / Wallet,Zara,Savings Account
+2025-12-30,Transport,17.05,Debit Card,Lyft,Primary Checking
+2026-01-01,Rent & Utilities,1153.8,Debit Card,Landlord Inc.,Primary Checking
+2026-01-01,Dining Out,37.75,UPI / Wallet,Chipotle,Savings Account
+2026-01-01,Dining Out,8.42,Debit Card,Subway,Primary Checking
+2026-01-02,Entertainment,68.44,Credit Card,Steam Games,Credit Card
+2026-01-03,Shopping,46.28,Credit Card,Zara,Credit Card
+2026-01-03,Miscellaneous,13.9,Credit Card,Laundromat,Credit Card
+2026-01-04,Miscellaneous,9.54,Credit Card,Parking Meter,Credit Card
+2026-01-05,Miscellaneous,7.18,UPI / Wallet,Parking Meter,Savings Account
+2026-01-05,Rent & Utilities,82.53,Credit Card,Comcast Cable,Credit Card
+2026-01-05,Miscellaneous,3.76,UPI / Wallet,Local Corner Store,Savings Account
+2026-01-05,Rent & Utilities,153.9,UPI / Wallet,Electric Utility,Savings Account
+2026-01-05,Rent & Utilities,63.91,UPI / Wallet,Water & Sewage Corp,Primary Checking
+2026-01-06,Groceries,59.01,Credit Card,Whole Foods,Credit Card
+2026-01-06,Groceries,39.92,Credit Card,Walmart,Credit Card
+2026-01-07,Groceries,22.19,Credit Card,Trader Joe's,Credit Card
+2026-01-07,Shopping,95.39,Debit Card,Zara,Primary Checking
+2026-01-07,Groceries,55.52,Credit Card,Target,Credit Card
+2026-01-08,Miscellaneous,24.26,Debit Card,Post Office,Primary Checking
+2026-01-09,Groceries,48.19,UPI / Wallet,Target,Savings Account
+2026-01-09,Transport,18.26,UPI / Wallet,ExxonMobil,Savings Account
+2026-01-10,Subscriptions,15.49,Credit Card,Netflix,Credit Card
+2026-01-10,Subscriptions,10.99,Credit Card,Spotify,Credit Card
+2026-01-11,Transport,30.8,UPI / Wallet,Subway Transit,Savings Account
+2026-01-11,Miscellaneous,7.59,Cash,Local Corner Store,Cash
+2026-01-11,Miscellaneous,2.78,Credit Card,Local Corner Store,Credit Card
+2026-01-13,Transport,14.76,Cash,Lyft,Cash
+2026-01-14,Groceries,25.75,Credit Card,Target,Credit Card
+2026-01-14,Transport,16.45,Cash,Lyft,Cash
+2026-01-15,Dining Out,10.13,Credit Card,Olive Garden,Credit Card
+2026-01-15,Groceries,25.83,Credit Card,Kroger,Credit Card
+2026-01-15,Subscriptions,49.99,Credit Card,Gym Membership,Credit Card
+2026-01-16,Groceries,107.96,Credit Card,Trader Joe's,Credit Card
+2026-01-16,Transport,8.4,Debit Card,Shell Gas Station,Primary Checking
+2026-01-17,Dining Out,57.23,Credit Card,McDonald's,Credit Card
+2026-01-17,Groceries,16.12,Debit Card,Target,Primary Checking
+2026-01-18,Dining Out,23.28,UPI / Wallet,Olive Garden,Savings Account
+2026-01-18,Dining Out,27.45,Debit Card,Chipotle,Primary Checking
+2026-01-19,Dining Out,22.45,Credit Card,Local Pizzeria,Credit Card
+2026-01-19,Miscellaneous,14.54,Credit Card,Parking Meter,Credit Card
+2026-01-21,Shopping,19.5,Cash,Apple Store,Cash
+2026-01-21,Transport,17.95,Credit Card,Uber,Credit Card
+2026-01-22,Shopping,85.95,Credit Card,Apple Store,Credit Card
+2026-01-22,Groceries,73.82,Credit Card,Target,Credit Card
+2026-01-22,Groceries,14.45,Credit Card,Kroger,Credit Card
+2026-01-23,Entertainment,55.55,Credit Card,Concert Venue,Credit Card
+2026-01-23,Groceries,74.86,UPI / Wallet,Walmart,Savings Account
+2026-01-23,Dining Out,22.22,Credit Card,Chipotle,Credit Card
+2026-01-25,Miscellaneous,13.31,Debit Card,Parking Meter,Primary Checking
+2026-01-25,Entertainment,35.04,Debit Card,Concert Venue,Primary Checking
+2026-01-25,Miscellaneous,2.27,Debit Card,Laundromat,Primary Checking
+2026-01-27,Healthcare,60.98,Cash,Family Medical Clinic,Cash
+2026-01-27,Groceries,20.87,Credit Card,Kroger,Credit Card
+2026-01-29,Dining Out,17.6,UPI / Wallet,McDonald's,Savings Account
+2026-01-29,Groceries,23.59,Debit Card,Walmart,Primary Checking
+2026-01-30,Dining Out,60.49,UPI / Wallet,Local Pizzeria,Savings Account
+2026-01-30,Healthcare,47.29,Debit Card,CVS Pharmacy,Primary Checking
+2026-01-31,Entertainment,105.14,Credit Card,AMC Theatres,Credit Card
+2026-01-31,Dining Out,28.63,Credit Card,Chipotle,Credit Card
+2026-02-01,Rent & Utilities,1257.22,Debit Card,Landlord Inc.,Primary Checking
+2026-02-01,Dining Out,25.59,UPI / Wallet,Starbucks,Savings Account
+2026-02-02,Miscellaneous,2.55,Cash,Local Corner Store,Cash
+2026-02-03,Dining Out,82.92,Cash,Subway,Cash
+2026-02-03,Transport,6.15,Debit Card,Subway Transit,Primary Checking
+2026-02-04,Groceries,80.57,UPI / Wallet,Kroger,Savings Account
+2026-02-05,Rent & Utilities,83.21,Credit Card,Comcast Cable,Credit Card
+2026-02-05,Rent & Utilities,162.87,UPI / Wallet,Electric Utility,Savings Account
+2026-02-05,Rent & Utilities,59.94,UPI / Wallet,Water & Sewage Corp,Primary Checking
+2026-02-06,Transport,10.19,Credit Card,Subway Transit,Credit Card
+2026-02-07,Shopping,166.23,UPI / Wallet,Nike Store,Savings Account
+2026-02-08,Dining Out,51.13,UPI / Wallet,Starbucks,Savings Account
+2026-02-08,Groceries,21.95,Debit Card,Kroger,Primary Checking
+2026-02-09,Miscellaneous,31.42,Cash,Local Corner Store,Cash
+2026-02-09,Shopping,107.37,Debit Card,Target,Primary Checking
+2026-02-10,Subscriptions,15.49,Credit Card,Netflix,Credit Card
+2026-02-10,Subscriptions,10.99,Credit Card,Spotify,Credit Card
+2026-02-10,Shopping,192.62,Credit Card,H&M,Credit Card
+2026-02-11,Groceries,48.13,UPI / Wallet,Trader Joe's,Savings Account
+2026-02-12,Healthcare,62.98,Cash,City Dental,Cash
+2026-02-12,Dining Out,10.16,Debit Card,Starbucks,Primary Checking
+2026-02-13,Healthcare,88.32,Cash,CVS Pharmacy,Cash
+2026-02-15,Entertainment,26.81,Debit Card,Netflix,Primary Checking
+2026-02-15,Entertainment,31.75,Debit Card,Netflix,Primary Checking
+2026-02-15,Entertainment,62.29,Credit Card,AMC Theatres,Credit Card
+2026-02-15,Subscriptions,49.99,Credit Card,Gym Membership,Credit Card
+2026-02-16,Groceries,153.41,Credit Card,Trader Joe's,Credit Card
+2026-02-16,Dining Out,18.22,Credit Card,Subway,Credit Card
+2026-02-16,Entertainment,17.21,Credit Card,Spotify,Credit Card
+2026-02-17,Dining Out,37.95,Debit Card,Local Pizzeria,Primary Checking
+2026-02-18,Healthcare,33.84,Credit Card,Family Medical Clinic,Credit Card
+2026-02-19,Transport,16.4,Credit Card,Subway Transit,Credit Card
+2026-02-19,Miscellaneous,10.02,Credit Card,Laundromat,Credit Card
+2026-02-19,Transport,12.86,Cash,Uber,Cash
+2026-02-20,Shopping,277.78,UPI / Wallet,Amazon,Savings Account
+2026-02-21,Transport,12.98,Credit Card,Shell Gas Station,Credit Card
+2026-02-21,Groceries,85.43,Cash,Trader Joe's,Cash
+2026-02-21,Miscellaneous,10.8,UPI / Wallet,Local Corner Store,Savings Account
+2026-02-22,Dining Out,22.97,Credit Card,Olive Garden,Credit Card
+2026-02-22,Miscellaneous,4.32,UPI / Wallet,Local Corner Store,Savings Account
+2026-02-23,Groceries,41.03,Debit Card,Walmart,Primary Checking
+2026-02-24,Healthcare,75.66,Credit Card,Family Medical Clinic,Credit Card
+2026-02-27,Entertainment,20.63,Debit Card,Spotify,Primary Checking
+2026-02-27,Entertainment,44.7,Cash,Spotify,Cash
+2026-02-28,Transport,10.14,Debit Card,Lyft,Primary Checking
+2026-03-01,Rent & Utilities,1208.3,Debit Card,Landlord Inc.,Primary Checking
+2026-03-01,Dining Out,57.58,Cash,McDonald's,Cash
+2026-03-01,Groceries,40.49,Credit Card,Whole Foods,Credit Card
+2026-03-02,Miscellaneous,6.27,Credit Card,Local Corner Store,Credit Card
+2026-03-03,Dining Out,23.41,Debit Card,Starbucks,Primary Checking
+2026-03-04,Shopping,30.06,Credit Card,Nike Store,Credit Card
+2026-03-05,Rent & Utilities,83.03,Credit Card,Comcast Cable,Credit Card
+2026-03-05,Rent & Utilities,149.06,UPI / Wallet,Electric Utility,Savings Account
+2026-03-05,Rent & Utilities,64.78,UPI / Wallet,Water & Sewage Corp,Primary Checking
+2026-03-07,Dining Out,8.81,Debit Card,Olive Garden,Primary Checking
+2026-03-08,Dining Out,19.32,Debit Card,Chipotle,Primary Checking
+2026-03-08,Entertainment,13.94,Debit Card,Netflix,Primary Checking
+2026-03-09,Groceries,101.23,Credit Card,Walmart,Credit Card
+2026-03-09,Transport,17.52,Cash,Shell Gas Station,Cash
+2026-03-10,Miscellaneous,6.63,Debit Card,Post Office,Primary Checking
+2026-03-10,Subscriptions,10.99,Credit Card,Spotify,Credit Card
+2026-03-10,Subscriptions,15.49,Credit Card,Netflix,Credit Card
+2026-03-11,Dining Out,42.41,Credit Card,McDonald's,Credit Card
+2026-03-11,Dining Out,64.39,Debit Card,Local Pizzeria,Primary Checking
+2026-03-12,Groceries,29.67,Credit Card,Walmart,Credit Card
+2026-03-14,Dining Out,53.93,Credit Card,Starbucks,Credit Card
+2026-03-14,Entertainment,56.24,Debit Card,Netflix,Primary Checking
+2026-03-15,Shopping,63.98,Debit Card,Apple Store,Primary Checking
+2026-03-15,Shopping,77.34,Credit Card,Amazon,Credit Card
+2026-03-15,Subscriptions,49.99,Credit Card,Gym Membership,Credit Card
+2026-03-16,Miscellaneous,10.46,Credit Card,Parking Meter,Credit Card
+2026-03-17,Entertainment,12.15,Credit Card,Netflix,Credit Card
+2026-03-17,Dining Out,55.56,Credit Card,Subway,Credit Card
+2026-03-17,Healthcare,1.5,Cash,Family Medical Clinic,Cash
+2026-03-19,Miscellaneous,2.05,Cash,Parking Meter,Cash
+2026-03-20,Shopping,213.78,Debit Card,Target,Primary Checking
+2026-03-21,Dining Out,13.74,Cash,Subway,Cash
+2026-03-21,Shopping,68.14,Credit Card,Nike Store,Credit Card
+2026-03-22,Entertainment,26.11,Cash,Concert Venue,Cash
+2026-03-23,Transport,12.27,Debit Card,Lyft,Primary Checking
+2026-03-24,Groceries,14.14,Credit Card,Walmart,Credit Card
+2026-03-27,Entertainment,20.58,Cash,AMC Theatres,Cash
+2026-03-28,Miscellaneous,29.02,Cash,Laundromat,Cash
+2026-03-28,Dining Out,9.72,UPI / Wallet,Local Pizzeria,Savings Account
+2026-03-28,Entertainment,15.01,UPI / Wallet,Concert Venue,Savings Account
+2026-03-29,Dining Out,13.16,Credit Card,Olive Garden,Credit Card
+2026-03-30,Healthcare,67.12,UPI / Wallet,City Dental,Savings Account
+2026-03-30,Miscellaneous,22.97,Credit Card,Local Corner Store,Credit Card
+2026-03-31,Entertainment,39.54,Debit Card,Netflix,Primary Checking
+2026-03-31,Groceries,32.35,Debit Card,Whole Foods,Primary Checking
+2026-04-01,Rent & Utilities,1085.55,Debit Card,Landlord Inc.,Primary Checking
+2026-04-01,Shopping,26.25,UPI / Wallet,H&M,Savings Account
+2026-04-02,Transport,22.16,UPI / Wallet,Shell Gas Station,Savings Account
+2026-04-02,Groceries,65.24,UPI / Wallet,Whole Foods,Savings Account
+2026-04-04,Shopping,172.03,Credit Card,Apple Store,Credit Card
+2026-04-05,Dining Out,51.83,Cash,Olive Garden,Cash
+2026-04-05,Shopping,103.8,Debit Card,Zara,Primary Checking
+2026-04-05,Rent & Utilities,57.78,UPI / Wallet,Water & Sewage Corp,Primary Checking
+2026-04-05,Rent & Utilities,169.3,UPI / Wallet,Electric Utility,Savings Account
+2026-04-05,Rent & Utilities,84.15,Credit Card,Comcast Cable,Credit Card
+2026-04-06,Groceries,142.43,Credit Card,Walmart,Credit Card
+2026-04-07,Transport,8.55,UPI / Wallet,Uber,Savings Account
+2026-04-08,Groceries,80.25,Credit Card,Trader Joe's,Credit Card
+2026-04-09,Shopping,20.36,Credit Card,H&M,Credit Card
+2026-04-09,Groceries,126.9,Debit Card,Whole Foods,Primary Checking
+2026-04-10,Subscriptions,10.99,Credit Card,Spotify,Credit Card
+2026-04-10,Subscriptions,15.49,Credit Card,Netflix,Credit Card
+2026-04-11,Shopping,151.28,Credit Card,Target,Credit Card
+2026-04-11,Dining Out,30.37,Credit Card,Local Pizzeria,Credit Card
+2026-04-11,Groceries,20.36,UPI / Wallet,Whole Foods,Savings Account
+2026-04-12,Groceries,44.69,Cash,Trader Joe's,Cash
+2026-04-12,Dining Out,24.39,Cash,McDonald's,Cash
+2026-04-13,Groceries,16.83,Credit Card,Target,Credit Card
+2026-04-14,Transport,10.4,Debit Card,Uber,Primary Checking
+2026-04-15,Transport,11.43,Credit Card,ExxonMobil,Credit Card
+2026-04-15,Subscriptions,49.99,Credit Card,Gym Membership,Credit Card
+2026-04-15,Groceries,42.58,Cash,Kroger,Cash
+2026-04-16,Transport,9.45,Credit Card,Uber,Credit Card
+2026-04-16,Transport,12.24,Credit Card,Shell Gas Station,Credit Card
+2026-04-16,Transport,5.45,Debit Card,Uber,Primary Checking
+2026-04-17,Groceries,37.17,Debit Card,Target,Primary Checking
+2026-04-18,Transport,13.29,UPI / Wallet,Shell Gas Station,Savings Account
+2026-04-18,Miscellaneous,5.18,UPI / Wallet,Parking Meter,Savings Account
+2026-04-19,Shopping,152.34,UPI / Wallet,Nike Store,Savings Account
+2026-04-19,Transport,8.01,Credit Card,Uber,Credit Card
+2026-04-20,Groceries,82.41,Credit Card,Whole Foods,Credit Card
+2026-04-20,Entertainment,44.73,Cash,Spotify,Cash
+2026-04-21,Healthcare,40.71,Credit Card,Family Medical Clinic,Credit Card
+2026-04-21,Entertainment,22.43,Credit Card,Concert Venue,Credit Card
+2026-04-23,Shopping,17.02,Credit Card,Apple Store,Credit Card
+2026-04-23,Transport,19.61,Cash,ExxonMobil,Cash
+2026-04-24,Dining Out,19.28,Credit Card,McDonald's,Credit Card
+2026-04-25,Shopping,57.97,Credit Card,Amazon,Credit Card
+2026-04-26,Shopping,167.14,Debit Card,Amazon,Primary Checking
+2026-04-26,Shopping,64.74,Debit Card,Amazon,Primary Checking
+2026-04-26,Shopping,90.28,Credit Card,H&M,Credit Card
+2026-04-28,Miscellaneous,25.08,Debit Card,Laundromat,Primary Checking
+2026-04-28,Shopping,199.27,Credit Card,Target,Credit Card
+2026-04-29,Dining Out,20.99,Debit Card,Starbucks,Primary Checking
+2026-04-30,Groceries,23.77,Credit Card,Kroger,Credit Card
+2026-04-30,Shopping,83.82,Debit Card,H&M,Primary Checking
+2026-05-01,Groceries,153.33,Credit Card,Trader Joe's,Credit Card
+2026-05-01,Rent & Utilities,1107.96,Debit Card,Landlord Inc.,Primary Checking
+2026-05-03,Groceries,25.33,Credit Card,Target,Credit Card
+2026-05-03,Shopping,238.65,Credit Card,Zara,Credit Card
+2026-05-04,Groceries,24.16,Debit Card,Whole Foods,Primary Checking
+2026-05-04,Groceries,12.38,Debit Card,Trader Joe's,Primary Checking
+2026-05-04,Transport,16.72,Debit Card,Lyft,Primary Checking
+2026-05-05,Shopping,61.17,Credit Card,H&M,Credit Card
+2026-05-05,Rent & Utilities,82.34,Credit Card,Comcast Cable,Credit Card
+2026-05-05,Rent & Utilities,53.66,UPI / Wallet,Water & Sewage Corp,Primary Checking
+2026-05-05,Rent & Utilities,130.81,UPI / Wallet,Electric Utility,Savings Account
+2026-05-08,Groceries,30.15,Credit Card,Trader Joe's,Credit Card
+2026-05-08,Miscellaneous,17.61,Debit Card,Local Corner Store,Primary Checking
+2026-05-08,Transport,14.37,UPI / Wallet,ExxonMobil,Savings Account
+2026-05-09,Shopping,103.39,UPI / Wallet,Apple Store,Savings Account
+2026-05-09,Dining Out,34.01,Debit Card,Starbucks,Primary Checking
+2026-05-10,Subscriptions,15.49,Credit Card,Netflix,Credit Card
+2026-05-10,Subscriptions,10.99,Credit Card,Spotify,Credit Card
+2026-05-11,Groceries,18.96,Debit Card,Whole Foods,Primary Checking
+2026-05-11,Miscellaneous,3.28,UPI / Wallet,Laundromat,Savings Account
+2026-05-14,Healthcare,50.71,Credit Card,City Dental,Credit Card
+2026-05-15,Groceries,47.01,Debit Card,Target,Primary Checking
+2026-05-15,Subscriptions,49.99,Credit Card,Gym Membership,Credit Card
+2026-05-15,Miscellaneous,6.15,UPI / Wallet,Post Office,Savings Account
+2026-05-17,Entertainment,33.67,UPI / Wallet,Concert Venue,Savings Account
+2026-05-18,Transport,8.18,Credit Card,ExxonMobil,Credit Card
+2026-05-19,Groceries,43.87,Cash,Kroger,Cash
+2026-05-19,Healthcare,50.74,Credit Card,City Dental,Credit Card
+2026-05-23,Entertainment,94.81,UPI / Wallet,Steam Games,Savings Account
+2026-05-23,Transport,21.05,Credit Card,ExxonMobil,Credit Card
+2026-05-24,Dining Out,55.9,UPI / Wallet,Chipotle,Savings Account
+2026-05-25,Dining Out,118.0,Credit Card,Olive Garden,Credit Card
+2026-05-26,Entertainment,74.66,UPI / Wallet,Steam Games,Savings Account
+2026-05-27,Transport,14.51,Credit Card,Shell Gas Station,Credit Card
+2026-05-28,Groceries,42.35,Credit Card,Target,Credit Card
+2026-05-28,Groceries,11.68,Cash,Walmart,Cash
+2026-05-29,Miscellaneous,11.09,Debit Card,Post Office,Primary Checking
+2026-05-29,Healthcare,51.36,Cash,Walgreens,Cash
+2026-05-30,Entertainment,35.82,Credit Card,Spotify,Credit Card
+2026-05-31,Entertainment,24.23,Credit Card,Spotify,Credit Card
+2026-05-31,Dining Out,27.25,Debit Card,Olive Garden,Primary Checking
+2026-05-31,Dining Out,62.9,Cash,Olive Garden,Cash
+2026-06-01,Transport,16.67,Credit Card,Shell Gas Station,Credit Card
+2026-06-01,Rent & Utilities,1214.29,Debit Card,Landlord Inc.,Primary Checking
+2026-06-01,Dining Out,15.52,UPI / Wallet,Chipotle,Savings Account
