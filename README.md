@@ -1,5 +1,10 @@
 # Personal Expense Analytics Dashboard 📊
 
+**Intern ID:** `CITS2983`  
+**Host Organization:** CodTech IT Solutions  
+**Internship Domain:** Data Analytics  
+**Author:** Anirudh V S
+
 An advanced, submission-ready **Personal Expense Analytics Dashboard** developed for a Data Analytics Internship. Built with Python and Streamlit, this application converts raw financial transaction logs into rich visual intelligence.
 
 ---
@@ -120,3 +125,12 @@ The application will launch automatically in your default web browser (usually a
 2. **Database Integration**: Store transaction logs in an SQLite or PostgreSQL database for persistence rather than memory-only state.
 3. **Multi-User Portals**: Support multiple user profiles with private login systems and encrypted data.
 4. **Machine Learning Classifiers**: Train a Random Forest or BERT-based NLP model to automatically classify merchant strings into categories (e.g. mapping "Starbucks" to "Dining Out").
+
+---
+
+## 👤 Author Information
+
+* **Name**: Anirudh V S
+* **Intern ID**: `CITS2983`
+* **GitHub Profile**: [Anirudh-V-S](https://github.com/Anirudh-V-S)
+* **Internship Provider**: CodTech IT Solutions
